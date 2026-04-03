@@ -18,7 +18,15 @@ Set up ESP32 and Arduino enviornment. Execute sketch " Wifiscanner".
 ##### AI GPTs used
 
 ## Steps I followed
-1. Write the steps you followed here.  This way you can keep track of where you might have messed up if the project does not work. 
+1. Write the steps you followed here.  This way you can keep track of where you might have messed up if the project does not work.
+2. i followed the video tutorial to first download and intstall Arduino for windows
+3. then the drivers for CH340 series
+4. i opened arduino where i began to install the board manager for espn 32 and select correct usb port
+5. went to file, look for file/examples/basics/blink in that order.
+6. we then edited the program to select the port 4 on the esp32 board to test out the blink led light.
+7. we then did the same with the loop function by changing it to 4
+8. then selected upload and it worked.
+9. the led light on the hardware started blinking.
 
 ## Problems and Solutions
 Note your problems or errors here.  Google any error you may come across, and not what you tried (even if it does not work), and what was the final answer. Document your errors and solutions that worked for you.  
