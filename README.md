@@ -30,6 +30,8 @@ Set up ESP32 and Arduino enviornment. Execute sketch " Wifiscanner".
 
 ## Problems and Solutions
 Note your problems or errors here.  Google any error you may come across, and not what you tried (even if it does not work), and what was the final answer. Document your errors and solutions that worked for you.  
+intially i didnt follow prof.edwin instruction i kept running into code 74
+thats wehn i decided to follow his instruction to a tee turns out i didnt have the proper drivers installed.
 
 **Problem:** E (485) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
 Camera init failed with error 0x105
