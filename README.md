@@ -35,6 +35,21 @@ thats wehn i decided to follow his instruction to a tee turns out i didnt have t
 
 **Problem:** E (485) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
 Camera init failed with error 0x105
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4876
+ho 0 tail 12 room 4
+load:0x40078000,len:16560
+load:0x40080400,len:3500
+entry 0x400805b4
+
+E (42) camera: Detected camera not supported.
+E (42) camera: Camera probe failed with error 0x106(ESP_ERR_NOT_SUPPORTED)
+Camera init failed with error 0x106
 **Solution:**
 
 ### Example Problem
