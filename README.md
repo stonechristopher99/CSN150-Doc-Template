@@ -55,5 +55,6 @@ Camera init failed with error 0x106
 ### Example Problem
 **Problem:** Arduino code will not load on ESP32 Cam.
 **Solution:** Camera drivers were incorrect I needed to install the driver: [https://www.wch-ic.com/downloads/CH341SER_ZIP.html](https://github.com/martin-ger/esp32_nat_router).  I used file, "CH341SER.ZIP" and it worked.
+solution on arduino go to the configuration file and uncomment AI MODEL CAMERA
 
 ## Final Report
