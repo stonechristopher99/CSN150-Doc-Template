@@ -16,6 +16,7 @@ Set up ESP32 and Arduino enviornment. Execute sketch " Wifiscanner".
 ##### Other Links: 
 
 ##### AI GPTs used
+Chat gpt, Gemini
 
 ## Steps I followed
 1. Write the steps you followed here.  This way you can keep track of where you might have messed up if the project does not work.
